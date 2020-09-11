@@ -1,5 +1,4 @@
 import unittest
-rajjjjj
 from selenium.webdriver import Chrome
 class TestGoogleSearch(unittest.TestCase):
     def google_url(self):
